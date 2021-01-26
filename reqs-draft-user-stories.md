@@ -52,3 +52,21 @@
     Number of house
     Name of family elder
     Registration Date
+
+<hr/>
+
+## Community Influencers
+### Profile
+    CIP Name
+    Position
+    Contact Number
+    Proposed support by CIPe
+    
+ <hr/>
+ 
+ ## Supervision
+### Profile
+    Name
+    Date of supervision
+    Remarks
+    Signature
