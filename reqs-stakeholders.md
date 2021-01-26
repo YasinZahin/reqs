@@ -1,7 +1,7 @@
 # Project Stakeholders
 
 | Stakeholder ID       | Stakeholder     | Position     | Influence     | Impact     |
-| :------------- | :----------: | -----------: | -----------: | -----------: |
+| :------------- | :---------- | :----------- | :----------- | :----------- |
 |  1 |Social Mobilizer   |     |     |     |
 |  1.1 | Supervisor   |     |     |     |
 |  1.2 | DCO - District Communication Officer   |     |     |     |
