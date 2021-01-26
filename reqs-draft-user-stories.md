@@ -1,31 +1,16 @@
-# Stakeholders
-# Social Mobilizer
-## Supervisor
-### DCO - District Communication Officer
-#### PCO - Provincial Communication Officer
-##### Dr. and above
-
-# Volunteer
-## Operation Supervisor
-### Coordinator
-#### DPO - District Polio Office (name may (may not) be correct)
-##### Dr. and above
-
-<hr/>  
-
 ## Social Mobilizer
-- Profile
+### Profile  
     Name
     FName
     Address
     Telephone Number
-- Feed
+### Feed
     Children listed sorted by house
     Checking Vaccined
 <hr/> 
 
 ## Supervisor
-- Profile
+### Profile
     Name
     FName
     Address
@@ -33,18 +18,18 @@
 <hr/> 
 
 ## Volunteer
-- Profile
+### Profile
     Name
     FName
     Address
     Telephone Number
-- Feed
+### Feed
     Children listed sorted by house
     Checking Vaccined
 <hr/> 
 
 ## Operation Supervisor
-- Profile
+### Profile
     Name
     FName
     Address
@@ -52,14 +37,14 @@
 <hr/> 
 
 ## Parent
-- Profile
+### Profile
     Name and Bio
-- Feed
+### Feed
     Listing all children with Vaccination info
 <hr/> 
 
 ## Child
-- Profile
+### Profile
     Name
     DOB
     Age in months
