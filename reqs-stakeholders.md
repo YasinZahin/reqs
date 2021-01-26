@@ -2,11 +2,13 @@
 
 | Stakeholder ID       | Stakeholder     | Position     | Influence     | Impact     |
 | :------------- | :----------: | -----------: | -----------: | -----------: |
-|  1 | Parents   |     |     |     |
-|  2 | Babies   |     |     |     |
-|  3 | Mobilizers   |     |     |     |
-|  4 | Mobilizer-Supervisors   |     |     |     |
-|  5 | Vaccinators   |     |     |     |
-|  6 | Vaccinators-Supervisors   |     |     |     |
-|  7 | Reporters   |     |     |     |
-|  8 | Administrator   |     |     |     |
+|  1 |Social Mobilizer   |     |     |     |
+|  1.1 | Supervisor   |     |     |     |
+|  1.2 | DCO - District Communication Officer   |     |     |     |
+|  1.3 | PCO  - Provincial Communication Officer   |     |     |     |
+|  2 | Volunteer   |     |     |     |
+|  2.1 | Operation Supervisor   |     |     |     |
+|  2.2 | DPO - District Polio Officer   |     |     |     |
+|  3 | Parents   |     |     |     |
+|  4 |Babies   |     |     |     |
+|  5 |Administrator|     |     |     |
