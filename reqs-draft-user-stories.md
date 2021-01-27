@@ -115,6 +115,36 @@
     Penta3/PCV3/OPV3
     Measles/OPV4
 
+# Social Mobilizer Report
+    Date
+    No of household
+    vaccinated during compaign days
+    Refusal child vaccinated during compaign 
+    Child is not vaccinated because of refusal
+    Refusal child vaccinated by social mobilizer after compaign
+    other missed child vaccinated by social mobilizer after compaign
+    Number of children not vaccinated due to other reason
+    IDP/Refugee/Returnee
+    children moved from one area to other
+    Child vaccinated on the street 
+    Newborn, sick and sleep (NSS)
+    Newborn, sick and sleep child vaccinated during compaign(NSS +)
+    Newborn, sick and sleep child vaccinated after compaign(NSS V)
+    Children seen finger marked during compaign(FM +)
+    Children seen finger marked after compaign(FM V)
+    Children vaccinated by refusal resolution comittee during compaign(RRC +)
+    Children vaccinated by refusal resolution comittee after compaign(RRC V)
+    Children vacinated by Mobile religious comittee during compaign(MRC +)
+    Children vacinated by Mobile religious comittee after compaign(MRC V)
+    Number of children under 5
+    Number of IDP/Refugee/Returnee children under 5
+    Number of guests children under 5
+    Total SL children immunized (هفه ماشومان چي په کوڅه کي واکسین سوی دی)
+    Number of children refered to RI
+    Children vaccinated for RI
+    Recorded Newborn children
+    Routine OPV zero-dose for newborn
+    
 # Guides
 ## Vaccines 
     VaccineName 
