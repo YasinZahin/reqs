@@ -51,7 +51,7 @@
 <hr/> 
 
 ## Child
-### Profile
+### Profile - New Born
     Child Name
     Sex
     DateOfBirth
@@ -60,6 +60,19 @@
     RI Card No
     Name of the head of Household
     House No
+
+### Profile
+    House No.
+    FatherName
+    Date of Registration
+    ChildName
+    Age
+    Age in months
+    Gender
+
+### OPV Vaccination Timeline
+    Date of period
+    Vaccined?
 
 <hr/>
 
@@ -93,6 +106,14 @@
     Health facilities providing R.I (Out Reach)
     Name of Doctor (Any)
     Are they providing support for SIA and Vaccination Yes/No
+
+## Routine Immunization Record
+    RI Card
+    BCG/HepB/OPV0
+    Penta1/PCV1/OPV1
+    Penta2/PCV2/OPV2
+    Penta3/PCV3/OPV3
+    Measles/OPV4
 
 # Guides
 ## Vaccines 
